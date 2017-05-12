@@ -1,0 +1,5 @@
+aa,bb,95
+cc,dd,95
+dd,ee,80
+ff,ll,40
+bb,aa,40
