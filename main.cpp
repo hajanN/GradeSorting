@@ -49,7 +49,6 @@ struct compararator_grade_entry {
 		}
 		else
 			return false;
-		return true;
 	}
 };
 
